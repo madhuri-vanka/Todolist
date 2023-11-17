@@ -1,0 +1,43 @@
+.btn-primary
+{
+    width: 100px;
+    height:40px;
+    
+}
+.btn-warning
+{
+    width: 50px;
+    height:35px;
+    align-items: end;
+    margin-right: 10px;
+}
+.btn-danger
+{
+    width: 75px;
+    height:35px;
+    align-items: end;
+}
+
+h3
+{
+    text-align: center;
+    font-style: italic;
+}
+.todo-container
+{
+    max-width: 600px; 
+    margin: auto;
+  
+
+}
+.inputbox {
+    width: 70%; 
+  }
+.task-item
+ {
+    background-color: #ffffff; 
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+ }

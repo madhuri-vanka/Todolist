@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body
+{
+    background-color: white;
+    background-image: url(C:\Users\a\Desktop\angular\todo-app\src\assets\checklist-1614702_640.webp);
+    background-repeat: no-repeat;
+    padding: 20px;
+}
